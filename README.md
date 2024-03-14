@@ -30,5 +30,5 @@ The products are cataloged in 8 different tables:
 
 ![Imagine](https://github.com/mihaidaneasa/Magazin-on-line-MySQL/blob/main/Schema%20legaturi%20tabele.jpg)
 
-## database "MagazinOnLine"
+## Database "MagazinOnLine"
 https://github.com/mihaidaneasa/Magazin-on-line-MySQL/blob/main/MagazinOnLine.sql
