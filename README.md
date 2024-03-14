@@ -1,6 +1,7 @@
 # Magazin-on-line-MySQL
 ## About
 This project presents the database of an online perfume store.
+
 The main table "Produse" contains 20 products.
 
 ## Project structure
