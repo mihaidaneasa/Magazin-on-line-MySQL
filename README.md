@@ -26,4 +26,4 @@ The products are cataloged in 8 different tables:
 2. Tables "Tip", "Proprietati" are linked to table "TipProdus".
 3. Table "CategorieOlfactiva" is linked to table "Caractersitici".
 
-![Imagine](
+![Imagine](https://github.com/mihaidaneasa/Magazin-on-line-MySQL/blob/main/Schema%20legaturi%20tabele.jpg)
